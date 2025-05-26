@@ -1,5 +1,6 @@
 Hi there, I’m Bhargav Kumar Aathava! 👋
-Welcome to my GitHub — glad you're here!
+
+Welcome to my GitHub, glad you're here!
 
 I’m a Salesforce Developer & Administrator (5x+ Certified) with a passion for building intelligent CRM solutions that are scalable, user-friendly, and deeply integrated with cloud and data platforms. I combine strong Salesforce expertise with a background in data engineering, AI, and cloud technologies, creating seamless experiences across Sales, Service, Experience, and Marketing Clouds.
 
