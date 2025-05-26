@@ -31,4 +31,4 @@ Udemy: Salesforce Marketing Cloud Training, Data Engineering
 
 Infosys: Certified Global Agile Developer
 
-📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile-url/) or email me at bhargavoffic@gmail.com — always open to new opportunities and tech collaborations
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/bhargav-kumar98/) or email me at bhargavoffic@gmail.com — always open to new opportunities and tech collaborations
