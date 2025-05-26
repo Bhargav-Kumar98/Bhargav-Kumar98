@@ -23,7 +23,7 @@ Databases & Tools:
 Postgres, MongoDB, Snowflake, Redis, Cassandra, MS SQL Server, DynamoDB, HTML/CSS/JS, React, Linux, JIRA, GitHub
 
 📜 Certifications
-Salesforce: Agentforce, AI Associate, JavaScript Developer I, Platform Developer I, OmniStudio Developer, Administrator
+Salesforce: Agentforce Specialist, AI Associate, JavaScript Developer I, Platform Developer I, OmniStudio Developer, Administrator (In Progress)
 
 Google Cloud: Professional Data Analytics
 
